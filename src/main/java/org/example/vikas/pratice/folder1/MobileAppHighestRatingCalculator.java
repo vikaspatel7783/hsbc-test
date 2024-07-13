@@ -11,7 +11,8 @@ public class MobileAppHighestRatingCalculator {
         RatingsResult ratingsResult = new RatingsResult();
 
         // group by category
-        // find highest rated app in each category
+        // find the highest rated app in each category
+        // add comments to resultant app
         mobileApps.stream()
                 .collect(Collectors.groupingBy(mobileApp -> mobileApp.category))
                 .forEach((category, apps) -> {
