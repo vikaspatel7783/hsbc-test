@@ -1,6 +1,5 @@
-import org.example.MyFileHelper;
-import org.example.MyFileReaderWriter;
-import org.example.employee.product.BaseProduct;
+import org.example.file_reader_writer.MyFileHelper;
+import org.example.file_reader_writer.MyFileReaderWriter;
 import org.example.employee.product.PriceEngine;
 import org.example.employee.product.ProductPrice;
 import org.example.employee.product.VanillaProduct;

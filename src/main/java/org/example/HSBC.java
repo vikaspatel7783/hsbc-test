@@ -1,5 +1,8 @@
 package org.example;
 
+import org.example.file_reader_writer.MyFileHelper;
+import org.example.file_reader_writer.MyFileReaderWriter;
+
 import java.io.IOException;
 
 public class HSBC {

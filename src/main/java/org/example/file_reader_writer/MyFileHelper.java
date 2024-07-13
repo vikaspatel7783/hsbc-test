@@ -1,4 +1,4 @@
-package org.example;
+package org.example.file_reader_writer;
 
 import java.io.IOException;
 
